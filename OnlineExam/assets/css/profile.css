@@ -1,0 +1,46 @@
+ #examPoolDropdown:hover{
+	background-color: #111;
+	 border-radius: 10px;
+}
+
+#examPoolDropmenu{
+	box-shadow: 1px 1px 10px gray;
+}
+
+/* The sidebar menu */
+.sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 170px; /* Set the width of the sidebar */
+    background-color: #282828; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+}
+
+/* The navigation menu links */
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #959595;
+    display: block;
+	border-top: 1px #666666 solid;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    color: #fff;
+	background-color: #111;
+	text-decoration: none;
+}
+
+.sidenav a:active {
+    color: #671078;
+	background-color: #111;
+	text-decoration: none;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+} 

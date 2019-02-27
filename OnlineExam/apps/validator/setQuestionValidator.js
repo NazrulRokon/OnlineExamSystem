@@ -1,0 +1,11 @@
+$("#setQueQueType").change(function(){
+    if($(this).val()=="MCQ")
+    {
+        $("div#mcqDisplay").show();
+        $("div#fillBlankDisplay").hide();
+    }
+    else
+    {
+        $("div#mcqDisplay").hide();
+    }
+});

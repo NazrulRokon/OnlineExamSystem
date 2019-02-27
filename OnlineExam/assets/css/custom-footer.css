@@ -1,0 +1,62 @@
+.fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-facebook{
+  color: white;
+}
+
+.fa-twitter{
+  color: white;
+}
+
+.fa-google-plus{
+  color: white;
+}
+
+.fa-linkedin{
+  color: white;
+}
+
+.fa-skype{
+  color: white;
+}
+
+.fa-yahoo{
+  color: white;
+}
+
+.fa-envelope{
+  color: white;
+}
+
+.fa-facebook:hover{
+  color: #3B5998;
+}
+
+.fa-twitter:hover{
+  color: #55ACEE;
+}
+
+.fa-google-plus:hover{
+  color: #dd4b39;
+}
+
+.fa-linkedin:hover{
+  color: #007bb5;
+}
+
+.fa-skype:hover{
+  color: #00aff0;
+}
+
+.fa-yahoo:hover{
+  color: #430297;
+}
+
+.fa-envelope:hover{
+  color: #3B5998;
+}
