@@ -5,17 +5,8 @@
     Md. Kafi Pyal & Md. Syed Ashfaque Ali
     
 # Objectives
-    The objective of our project is to provide an interface through which student can appear for
-    examination online for objective type questions as well as fill in the blanks. The system provides
-    registration both for students and the staffs. When student starts the exam the timer will start
-    automatically and show the student how much time is left. The questions will be display randomly
-    from question bank. Answers will be checked automatically by the system from the database.
-    Provided user name and password facility and credentials should be checked properly at login time
-    for the Students, Portal Admin, Exam Dept. Admin/Coordinator and Question Setter. Our system
-    will provide an interface from where Portal Admin will create new exam portal and add
-    Coordinator for Exam. The system will facilitate Exam Coordinator to recruit a question setter.
-    Question Setter will add the question in the exam pool. Exam Coordinator will make schedule and
-    update final result.
+    The objective of this project is to provide an interface through which student can appear for examination online for objective type questions as well as fill in the blanks. The system provides registration both for students and the staffs.  Provided user name and password facility and credentials should be checked properly at login time for the Students, Portal Admin, Exam Dept. Admin/Coordinator and Question Setter. Our system will provide an interface from where Portal Admin will create new exam portal and add Coordinator for an Exam who can create an Exam pool. Exam Coordinator will make schedule and update final result. The system will facilitate Exam Coordinator to recruit a question setter too. Question Setter will add the question in the exam pool. Student can send a request to join their desirable exam pool. When student starts the exam the timer will start automatically and show the student how much time is left. The questions will be display randomly from question bank. Answers will be checked automatically by the system from the database. Instant result will e generated after finishing that exam.
+    
 # Expected Outcome
     1. The system will automatically generate questions from the Question Bank.
     2. The system will be made highly secured by applying different types of algorithm.
