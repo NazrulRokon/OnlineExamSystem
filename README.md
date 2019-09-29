@@ -1,5 +1,5 @@
 # OnlineExamSystem
-    This was my final year project at university.
+    Final year project at university.
     
 # Other Collaborators
     Md. Kafi Pyal & Md. Syed Ashfaque Ali
